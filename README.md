@@ -1,2 +1,2 @@
 # BookStore
- Sistema de Livraria em JS
+Bookstore System in JS
